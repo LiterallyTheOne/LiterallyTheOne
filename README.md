@@ -26,7 +26,7 @@ solutions in industrial projects.
 - **Other Tools**: OpenCV, Numpy, Pandas
 
 ### 📈 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LiterallyTheOne&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LiterallyTheOne&show_icons=true&theme=transparent)
 
 ### 📫 How to Reach Me:
 - [Website](https://LiterallyTheOne.github.io)
