@@ -1,6 +1,7 @@
 # I'm LiterallyTheOne! 👋
 
 ## About Me:
+
 LiterallyTheOne is a highly motivated computer engineer
 with over 10 years of experience in programming (Python and C++).
 He is currently a PhD candidate in AI at Yazd University.
@@ -10,25 +11,25 @@ He is proven to be capable of teaching and providing practical
 solutions in industrial projects.
 
 ## 🔭 What I Do:
+
 * **Computer Vision**:
-  * Mostly focused on Visual Object tracking, Image Segmentation, and Object Detection.
+    * Mostly focused on Visual Object tracking, Image Segmentation, and Object Detection.
 * **Generative AI**:
-  * Exploring Large Language Models (LLMs) and their applications.
-  Specially multi-modal LLMs.
+    * Exploring Large Language Models (LLMs) and their applications.
+      Specially multi-modal LLMs.
 * **Robotics**:
-  * Working with ROS (Robot Operating System) and PyBullet for robotic applications.
-  * Combining computer vision and robotics for real-world applications.
+    * Working with ROS (Robot Operating System) and PyBullet for robotic applications.
+    * Combining computer vision and robotics for real-world applications.
 
 ## 🛠️ Tech Stack:
+
 - **Languages**: Python, C++, C
 - **Frameworks**: PyTorch, transformers, ROS, TensorFlow
 - **Platforms**: Linux, Docker, Git, PlatformIO
 - **Other Tools**: OpenCV, Numpy, Pandas
 
-### 📈 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LiterallyTheOne&show_icons=true&theme=transparent)
-
 ### 📫 How to Reach Me:
+
 - [Website](https://LiterallyTheOne.github.io)
 - [LinkedIn](https://www.linkedin.com/in/ramin-zarebidoky/)
 - [Twitter](https://twitter.com/LiterallyTheOne)
