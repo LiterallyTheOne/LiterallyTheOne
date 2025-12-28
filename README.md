@@ -1,6 +1,6 @@
-# I'm LiterallyTheOne! 👋
+# <div style="text-align: center; color: cyan">LiterallyTheOne</div>
 
-## About Me:
+## <div style="text-align: center; color: lime">About Me</div>
 
 LiterallyTheOne is a highly motivated computer engineer
 with over 10 years of experience in programming (Python and C++).
@@ -10,7 +10,7 @@ Generative AI (especially Large Language Models), and robotics.
 He is proven to be capable of teaching and providing practical
 solutions in industrial projects.
 
-## 🔭 What I Do:
+## <div style="text-align: center; color: lime">🔭 What I Do:</div>
 
 * **Computer Vision**:
     * Mostly focused on Visual Object tracking, Image Segmentation, and Object Detection.
@@ -21,14 +21,14 @@ solutions in industrial projects.
     * Working with ROS (Robot Operating System) and PyBullet for robotic applications.
     * Combining computer vision and robotics for real-world applications.
 
-## 🛠️ Tech Stack:
+## <div style="text-align: center; color: lime">🛠️ Tech Stack</div>
 
 - **Languages**: Python, C++, C
-- **Frameworks**: PyTorch, transformers, ROS, TensorFlow
+- **Frameworks**: PyTorch, transformers, ROS, Keras, TensorFlow
 - **Platforms**: Linux, Docker, Git, PlatformIO
 - **Other Tools**: OpenCV, Numpy, Pandas
 
-### 📫 How to Reach Me:
+## <div style="text-align: center; color: lime">📫 How to Reach Me</div>
 
 - [Website](https://LiterallyTheOne.github.io)
 - [LinkedIn](https://www.linkedin.com/in/ramin-zarebidoky/)
